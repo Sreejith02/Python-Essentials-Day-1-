@@ -1,1 +1,1 @@
-# |LetsUpgrade| Python Essentials : Zero to Hero¦Day-1
+# |LetsUpgrade| Python Essentials : Zero to Hero¦Day-1¦
